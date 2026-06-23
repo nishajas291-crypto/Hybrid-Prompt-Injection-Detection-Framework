@@ -4,6 +4,8 @@
 A secure LLM interaction system designed to detect and prevent **prompt injection attacks** using a hybrid approach combining **rule-based filtering** and **machine learning classification**.
 
  ![image alt](https://github.com/nishajas291-crypto/Hybrid-Prompt-Injection-Detection-Framework/blob/0cb796e587ae0edabddb6546af943153644510eb/screenshots/prompt-injection-detection-ui.png)
+
+ ![image alt](https://github.com/nishajas291-crypto/Hybrid-Prompt-Injection-Detection-Framework/blob/8b5e90085a77befb9b1158054e86c89621c3d948/screenshots/prompt-detection-logs.png)
 ---
 
 ## 🚀 Features
