@@ -2,7 +2,7 @@
 # Hybrid Prompt Injection Detection Framework
 
 A secure LLM interaction system designed to detect and prevent **prompt injection attacks** using a hybrid approach combining **rule-based filtering** and **machine learning classification**.
- ![image alt](https://github.com/nishajas291-crypto/Hybrid-Prompt-Injection-Detection-Framework/blob/0cb796e587ae0edabddb6546af943153644510eb/screenshots/prompt-injection-detection-ui.png)
+ ![image alt](https://github.com/nishajas291-crypto/Hybrid-Prompt-Injection-Detection-Framework/blob/0cb796e587ae0edabddb6546af943153644510eb/screenshots/prompt-injection-detection-ui.png width="400")
 ---
 
 ## 🚀 Features
